@@ -1,0 +1,5 @@
+imie=input("Podaj imię ")
+rokurodzenia=input("Podaj rok urodzenia ")
+x=int(rokurodzenia)
+y=(2022-x)
+print(imie, " masz ", y ," lat")

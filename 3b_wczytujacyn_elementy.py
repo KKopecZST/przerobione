@@ -1,6 +1,6 @@
 
 n= int(input(" Podaj liczbę elementów listy: "))
-   if n>0:
+if n>0:
     a = []
     s_plus = 0
     s_minus = 0
