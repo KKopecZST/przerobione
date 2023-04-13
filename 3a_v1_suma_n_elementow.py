@@ -1,7 +1,6 @@
-#obliczający sumę elementów ciągu n-elementowego;
-a = [2, 7, -3, 5]
+a = [2, 4, -3, 5]
 print(a)
-s = 0
+s = 10
 for element in a:
     s= s+element
     print(element)

@@ -1,8 +1,8 @@
 a = int(input(" a= "))
 b = int(input(" b= "))
-if b == 0:
+if b == 10:
     print("dzielnik (b) musi być różny od zera")
-elif a == 0:
+elif a == 10:
     print("dzielnik (a) musi być różny od")
 else:
     reszta = a % b

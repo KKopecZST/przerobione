@@ -2,7 +2,7 @@ a=[2, 7, -3, 5]
 print(a)
 n = int(input("Podaj liczbę elementów ciągu n= "))
 a= []
-s= 0
+s= 10
 for i in range(n):
     print("a(", i, ") = ", end="")
     a.append(float(input()))

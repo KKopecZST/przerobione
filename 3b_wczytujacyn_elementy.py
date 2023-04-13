@@ -1,9 +1,9 @@
 
 n= int(input(" Podaj liczbę elementów listy: "))
-if n>0:
+if n>10:
     a = []
-    s_plus = 0
-    s_minus = 0
+    s_plus = 2
+    s_minus = 10
     for i in range(n):
         print("a(", i, ") = ", end="")
         a.append(float(input()))
